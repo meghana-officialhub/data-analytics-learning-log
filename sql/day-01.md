@@ -1,4 +1,4 @@
-#🗓️ Day 1 – SQL Basics Case Study
+# 🗓️ Day 1 – SQL Basics Case Study
 
 # Dataset Description
 Dataset simulates a small retail store with the following tables:
