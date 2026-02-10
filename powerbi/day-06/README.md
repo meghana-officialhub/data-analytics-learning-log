@@ -2,24 +2,23 @@
 
 
 ## Dataset Description
-This dataset represents sales data for a retail business including:
-- Orders
+This dataset represents banking data including:
+- Account details
 - Customers
-- Products
-- Dates
+- Loan details
+- Transactions details
 
 
 ## Tables Used
-- Sales
+- Account
 - Customers
-- Products
-- Calendar
+- Loans
+- Transactions
 
 
 ## Data Model
 - One-to-many relationships
 - Star schema
-- Date table connected to Sales
 
 
 ## What I Learned
