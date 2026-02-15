@@ -13,7 +13,7 @@ Displays distribution of loans across:
 - Closed
 - Defaulted
 
-**Insight:**
+**Insights:**
 - Majority of loans are Active.
 - A smaller portion is Defaulted, which helps assess credit risk.
 - Closed loans indicate completed lending cycles.
